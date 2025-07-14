@@ -1,5 +1,5 @@
 import { Col, Row } from "react-bootstrap";
-import AnimationLottie from "components/share/animation-lottie";
+import AnimationLottie from "@/components/share/animation-lottie";
 import codingJSON from "assets/lottie/coding.json";
 import { DEVELOPMENT_LOTTIE } from "assets/lottie/string/development";
 import { CONTACT_LOTTIE } from "assets/lottie/string/contact";

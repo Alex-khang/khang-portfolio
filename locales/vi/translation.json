@@ -1,0 +1,50 @@
+{
+  "appHeader": {
+    "brand": "Lê Hoàng Khang",
+    "home": "Trang chủ",
+    "project": "Dự án",
+    "contact": "Liên hệ",
+    "about": "Về tác giả"
+  },
+  "heroSection": {
+    "exp": "Kinh nghiệm",
+    "cv": "Tải Resume"
+  },
+  "introSection": {
+    "about": "Giới thiệu",
+    "and": "và",
+    "heading1": "Yêu đơn phương lập trình và tôi tin rằng mình đã học hỏi được ít nhiều điều gì đó. 🤷‍♂️",
+    "heading2": "Tôi nắm vững các ngôn ngữ huyền thoại như là",
+    "heading3": "Lĩnh vực quan tâm của tôi là",
+    "heading4": "xây dựng các công nghệ web mới và các sản phẩm liên quan",
+    "heading5": "Bất cứ khi nào có thể, tôi cũng áp dụng niềm đam mê phát triển sản phẩm của mình với"
+  },
+  "experience": {
+    "title": "Kinh nghiệm làm việc"
+  },
+  "skill": {
+    "title": "Kỹ năng"
+  },
+  "Project": {
+    "title": "Các Sản Phẩm Của Tôi.",
+    "context": "Sau đây là một số dự án tôi đã thực hiện gần đây."
+  },
+  "About": {
+    "knowMeTitle": "Biết Về <0>TÔI</0>",
+    "intro1": "Chào mọi người, tôi là Lê Hoàng Khang đến từ Cần Thơ, Việt Nam.",
+    "intro2": "Hiện tại tôi là sinh viên mới ra trường.",
+    "intro3": "Tôi đã hoàn thành bằng Kỹ sư Công nghệ thông tin tại trường Đại học Nam Cần Thơ (DNC).",
+    "activitiesTitle": "Ngoài việc viết code, tôi còn thích làm một số hoạt động khác!",
+    "activity1": "Đá banh",
+    "activity2": "Chơi game",
+    "activity3": "Bơi lội",
+    "activity4": "Du lịch",
+    "quote": "Cố gắng từng ngày theo đuổi ước mơ.",
+    "educationTitle": "Học vấn",
+    "degreeTitle": "Kỹ sư Công nghệ thông tin",
+    "universityName": "Trường Đại học Nam Cần Thơ",
+    "degreeDuration": "2021 - 2025",
+    "findMeOn": "TÌM TÔI TRÊN",
+    "contactMe": "Liên hệ"
+  }
+}

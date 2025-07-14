@@ -1,0 +1,50 @@
+{
+  "appHeader": {
+    "brand": "Lê Hoàng Khang",
+    "home": "Home",
+    "project": "Project",
+    "contact": "Contact",
+    "about": "About"
+  },
+  "heroSection": {
+    "exp": "My Skill",
+    "cv": "Get Resume"
+  },
+  "introSection": {
+    "about": "About me",
+    "and": "and",
+    "heading1": "I fell in love with programming and I have at least learnt something, I think… 🤷‍♂️",
+    "heading2": "I am fluent in classics like",
+    "heading3": "My field of Interest's are building new",
+    "heading4": "Web Technologies and Products",
+    "heading5": "Whenever possible, I also apply my passion for developing products with"
+  },
+  "experience": {
+    "title": "Experiences"
+  },
+  "skill": {
+    "title": "Skills"
+  },
+  "Project": {
+    "title": "My Recent Works",
+    "context": "Here are a few projects I've worked on recently."
+  },
+  "About": {
+    "knowMeTitle": "Know Who <0>I'M</0>",
+    "intro1": "Hi Everyone, I am Le Hoang Khang from Can Tho, Vietnam.",
+    "intro2": "I am a fresh graduate.",
+    "intro3": "I have completed my degree in Information Technology Engineering at Nam Can Tho University (DNC).",
+    "activitiesTitle": "Apart from coding, some other activities that I love to do!",
+    "activity1": "Playing Football",
+    "activity2": "Gaming",
+    "activity3": "Swimming",
+    "activity4": "Traveling",
+    "quote": "Striving every day to pursue my dreams.",
+    "educationTitle": "Education",
+    "degreeTitle": "Information Technology Engineer",
+    "universityName": "Nam Can Tho University",
+    "degreeDuration": "2021 - 2025",
+    "findMeOn": "FIND ME ON",
+    "contactMe": "Contact Me"
+  }
+}

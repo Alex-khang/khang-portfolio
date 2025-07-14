@@ -1,7 +1,8 @@
 {
-  "name": "react-portfolio-Lehoangkhang",
-  "homepage": "https://Alex-khang.github.io/khang-portfolio/",
-  "version": "1.0.0",
+  "name": "khang-portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://alex-khang.github.io/khang-portfolio/",
   "type": "module",
   "scripts": {
     "dev": "vite",
